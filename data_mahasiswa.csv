@@ -1,11 +1,11 @@
-NIM,Jenis_Kelamin,IPK,SKS,Kehadiran,Jumlah_Mengulang,Lama_Studi,Status
-FARHAN,L,3.50,144,90,1,4,Tepat Waktu
-SHOFI,P,3.80,144,95,0,3, Tepat Waktu
-MIFTAH,P,3.70,144,95,0,4,Tepat Waktu
-HENDI,L,3.20,144,88,2,4,Tepat Waktu
-INDRI,P,2.90,126,70,4,5,Tidak Tepat Waktu
-ADIT,L,3.60,144,92,0,4,Tepat Waktu
-MIA,P,2.70,120,68,6,6,Tidak Tepat Waktu
-RYAN,L,3.40,144,85,1,4,Tepat Waktu
-DIVA,P,3.80,144,96,0,4,Tepat Waktu
-INDRO,L,2.60,118,65,5,5,Tidak Tepat Waktu
+NAMA,Jenis_Kelamin,IPK,SKS_Terpenuhi,Kehadiran,Jumlah_Mengulang,Lama_Studi_Tahun,Status
+FARHAN,L,3.5,144,90,1,4,Tepat Waktu
+SHOFI,P,3.8,144,95,0,3,Tepat Waktu
+MIFTAH,P,3.7,144,95,0,4,Tepat Waktu
+HENDI,L,3.2,144,88,2,4,Tepat Waktu
+INDRI,P,2.9,126,70,4,5,Tidak Tepat Waktu
+ADIT,L,3.6,144,92,0,4,Tepat Waktu
+MIA,P,2.7,120,68,6,6,Tidak Tepat Waktu
+RYAN,L,3.4,144,85,1,4,Tepat Waktu
+DIVA,P,3.8,144,96,0,4,Tepat Waktu
+INDRO,L,2.6,118,65,5,5,Tidak Tepat Waktu
